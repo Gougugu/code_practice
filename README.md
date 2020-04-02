@@ -1,8 +1,12 @@
-# 刷题日记！（pyhon）
+刷题日记！（pyhon）
+===
 try to record my code
-thoese practices are come from hackerrank
+thoese practices are come from hackerrank\<br>
 开始正式记录自己在hackerrank上的刷题历程
+
+---
 时间轴和题目：
+---
 
 04/02/2020
 1.Time Conversion   12小时制转24小时制  转换器
