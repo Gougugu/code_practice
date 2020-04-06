@@ -13,4 +13,4 @@
     2.King Richard's Knights     “理查德王的骑士们”  （好难，学习解决办法中）（中等）
     3.Grading Students       成绩表处理脚本  （易）
     4.Appel and Orange     家旁边的水果树  （易）
-    
+    5.Kangaroo        袋鼠赛跳 （一元函数求解） （易）
