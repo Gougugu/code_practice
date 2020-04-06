@@ -9,5 +9,8 @@
 ---
 
     04/02/2020
-    1.Time Conversion   12小时制转24小时制  转换器
-    2.King Richard's Knights     “理查德王的骑士们” 
+    1.Time Conversion   12小时制转24小时制  转换器  （易）
+    2.King Richard's Knights     “理查德王的骑士们”  （好难，学习解决办法中）（中等）
+    3.Grading Students       成绩表处理脚本  （易）
+    4.Appel and Orange     家旁边的水果树  （易）
+    
