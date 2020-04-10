@@ -5,7 +5,7 @@
     开始正式记录自己在hackerrank上的刷题历程
 
 ---
-时间轴和题目：
+
 
     04/02/2020
     1.[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?h_r=internal-search "12小时制转24小时制")    转换器  （易）
