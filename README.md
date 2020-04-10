@@ -1,10 +1,9 @@
 刷题日记！（pyhon）
-===
+
     try to record my code
     thoese practices are come from hackerrank
     开始正式记录自己在hackerrank上的刷题历程
 
----
 
 
     04/02/2020
