@@ -16,9 +16,13 @@ import sys
 #
 
 def getTotalX(a, b):
-    if 
+    ans=0     #两个列表中间存在的特殊值个数为ans
+    for i in range(1, 101):            #从1-100里循坏提取i
+         #如果i能被a列表任何数整除，且b列表任何数能被i整除，则i为特殊值，all能判断集合值是否为真（集合里的每一个元素都为真）
+        if all(i%x==0 for x in a) and all(x%i==0 for x in b): 
+            ans += 1   #找到这个数，则计数+1
+    return ans  
     
-
 
 
 
